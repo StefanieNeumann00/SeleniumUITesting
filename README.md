@@ -21,4 +21,4 @@ You then have to add the downloaded libraries into your Java project. Make sure 
 download somewhere you can find it again easily. Create a Java project in your wished IDE and add 
 the external libraries to the project.
 
-For further instructions on the preparation, design and implementation of this project see the PDF document "Instructions.pdf" in the documentation folder.
+For further instructions on the preparation, design and implementation of this project see the PDF document ["Instructions.pdf"](https://github.com/StefanieNeumann00/SeleniumUITesting/blob/main/documentation/Instructions.pdf) in the documentation folder.

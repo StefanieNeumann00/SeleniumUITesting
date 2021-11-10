@@ -14,7 +14,7 @@ You may then install the corresponding Chrome WebDriver. Find the latest Chrome 
 releases here (https://sites.google.com/chromium.org/driver/downloads).
 
 ### Download Selenium Webdriver for Java 
-You can download the Selenium Webdriver libraries [here] (https://www.selenium.dev/downloads/)
+You can download the Selenium Webdriver libraries [here](https://www.selenium.dev/downloads/).
 Make sure to select the language binding for Java if you want to use it in a Java project.
 
 You then have to add the downloaded libraries into your Java project. Make sure to store the 
